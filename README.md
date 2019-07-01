@@ -1,8 +1,6 @@
 # Chars
 
-```
-Criei isto apenas por diversão. Talvez não seja muito perfomatico.
-```
+> Criei isto apenas por diversão. Talvez não seja muito perfomatico.
 
 Pequena ferramenta para geração de caracteres aleatórios.
 
